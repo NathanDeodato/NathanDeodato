@@ -2,9 +2,7 @@
     <h1 align="center">
         Iae! Sou o Nathan Deodato! 👨🏿‍💻
     </h1>
-    <section style=" display: flex; justify-content: center;">
-        <img src="/Deodatont/icons/BitMoji - NathanDeodato.png" style="width: 20vw;"></img>
-    </section>
+    <img src="/Deodatont/icons/BitMoji - NathanDeodato.png" style="width: 20vw;"></img>
     <p>
         Olá! Sou um programador junior Front-End em desenvolvimento. Estar em constante aprendizado e evolução é minha paixão! 
     </p>
