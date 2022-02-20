@@ -2,7 +2,14 @@
     <h1 align="center">
         Iae! Sou o Nathan Deodato! 👨🏿‍💻
     </h1>
-    <img src="/Deodatont/icons/BitMoji - NathanDeodato.png" style="width: 20vw;"></img>
+    <h2 style="text-align: center">
+        Web Application
+    </h2>
+    <section class="box-nt" style="display: flex; justify-content: center;">
+        <a href="https://nathandeodato.netlify.app/">
+            <img src="https://img.shields.io/static/v1?label=Code&message=Deodatont&color=1C1C1C&style=for-the-badge&logo=GHOST" alt="ntShield"></img>
+        </a>
+    </section>
     <p>
         Olá! Sou um programador junior Front-End em desenvolvimento. Estar em constante aprendizado e evolução é minha paixão! 
     </p>
