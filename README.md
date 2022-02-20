@@ -3,12 +3,11 @@
         Iae! Sou o Nathan Deodato! 👨🏿‍💻
     </h1>
     <section style=" display: flex; justify-content: center;">
-        <img src="/Deodatont/Icons/BitMoji%20-%20NathanDeodato.png" style="width: 20vw;"></img>
+        <img src="/Deodatont/icons/BitMoji%20-%20NathanDeodato.png" style="width: 20vw;"></img>
     </section>
-    <section style="height: 5vh; background-color: #1c1c1c; display: flex; justify-content: center; align-items: center; border-radius: 10px;">
-        <img src="/Deodatont/Icons/world-wide-web.png" style="width: 5vw;"></img>
-        <a href="https://nathandeodato.netlify.app/" style="color: #FFFFFF; font-size: 0.8em;">Deodatont
-        </a>
+    <img src="/Deodatont/icons/world-wide-web.png" style="width: 5vw;"></img>
+    <a href="https://nathandeodato.netlify.app/" style="color: #FFFFFF; font-size: 0.8em;">Deodatont
+    </a>
     </section>
     <p>
         Olá! Sou um programador junior Front-End em desenvolvimento. Estar em constante aprendizado e evolução é minha paixão! 
