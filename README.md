@@ -10,7 +10,6 @@
         <a href="https://nathandeodato.netlify.app/" style="color: #FFFFFF; font-size: 0.8em;">Deodatont
         </a>
     </section>
-    ---
     <p>
         Olá! Sou um programador junior Front-End em desenvolvimento. Estar em constante aprendizado e evolução é minha paixão! 
     </p>
