@@ -19,16 +19,18 @@
 
 <h2 align="center">Status</h2>
 
-<div style="display: flex; justify-content: space-around">
-    <img height="120vh" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=30px"/>
-    <img height="120vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&border_radius=20px"/>
+<div align="center">
+
+<img height="130vh" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=30px"/>
+<img height="130vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&border_radius=20px"/>
+
 </div>
 
 ---
 
 <h2 align="center">Skills</h2>
 
-<div style="display: flex; justify-content: space-around">
+<div align="center">
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -58,6 +60,8 @@
 
 <h2 align="center">Tools</h2>
 
+<div align="center">
+
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -71,3 +75,5 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+</div>
