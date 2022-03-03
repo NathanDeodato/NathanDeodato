@@ -2,9 +2,18 @@
     Iae! Sou o Nathan Deodato! 👨🏿‍💻
 </h1>
 
+<div align="center">
+
+<a href="">
+    <img style="border-radius: 5px;" width="130px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </img>
+</a>
+
+</div>
+
 ---
 
-<p>
+<p align="center">
     Olá! Sou um programador junior Front-End em desenvolvimento. Estar em constante aprendizado e evolução é minha paixão! 
 </p>
 
@@ -54,7 +63,22 @@
 
 <h2 align="center">Social Media</h2>
 
+<div align="center">
 
+<a href="">
+    <img width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="">
+    <img width="100px" height="32px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="">
+    <img width="150px" height="32px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+    " />
+</a>
+
+</div>
 
 ---
 
