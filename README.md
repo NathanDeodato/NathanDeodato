@@ -2,17 +2,6 @@
     Olá, mundo! Me chamo Nathan Deodato 👨🏿‍💻
 </h1>
 
-<div align="center">
-
-<a href="https://nathandeodato.netlify.app/">
-    <img style="border-radius: 5px;" width="130px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-    </img>
-</a>
-
-</div>
-
----
-
 <p align="center">
     Olá! Sou um programador junior Front-End em desenvolvimento. Estar em constante aprendizado e evolução é minha paixão! 
 </p>
