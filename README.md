@@ -1,91 +1,30 @@
-<h1 align="center" font-size="1em">
-    Olá, mundo! Me chamo Nathan Deodato 👨🏿‍💻
-</h1>
+# Hey, eu sou Nathan Deodato!
 
-<p align="center">
-    Olá! Sou um programador junior Front-End em desenvolvimento. Estar em constante aprendizado e evolução é minha paixão! 
-</p>
+<img src=''/>
 
-<ul>
-    <li>🌐 Front-End Developer</li>
-    <li>🖋 Designer</li>
-    <li>📚 Estudante</li>
-    <li>🖖🏿 pronouns: ele/dele</li>
-</ul>
+- 💻 FrontEnd developer
+- 🖌️ Designer
+- 💬 Minha filosofia é: Contancia e determinação na execução do que me comprometo.
+- 🌐 Mais sobre mim: <a href='https://nathancode.netlify.app'>NathanCode</a>
 
----
+### Hard skills
 
-<h2 align="center">Status</h2>
-
-<div align="center">
-
-<img height="130vh" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=30px"/>
-<img height="130vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&border_radius=20px"/>
-
+<div style='display: flex; justify-content: space-betwen;'>
+    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' width='80px'/>
+    <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' width='70px'/>
+    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' width='115px'/>
+    <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' width='88px'/>
+    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' width='78px'/>
+    <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' width='91px'/>
 </div>
 
----
+### Contact
 
-<h2 align="center">Skills</h2>
-
-<div align="center">
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
-</div>
-
----
-
-<h2 align="center">Social Media</h2>
-
-<div align="center">
-
-<a href="">
-    <img width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="">
-    <img width="100px" height="32px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="">
-    <img width="150px" height="32px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<h2 align="center">Tools</h2>
-
-<div align="center">
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
+<div style='display: flex; justify-content: space-betwen;'>
+    <a href='mailto:ndeodato42@outlook.com'>
+        <img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'  width='172px'/>
+    </a>
+    <a href='https://www.linkedin.com/in/nathandeodato/'>
+        <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'  width='100px'/>
+    </a>
 </div>
