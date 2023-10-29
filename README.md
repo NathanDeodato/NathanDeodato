@@ -1,4 +1,4 @@
-<img src="./Icons/coverNathanCode.png" width="1000px"/>
+<img src="./Icons/coverNathanCode.png" width="600px"/>
 
 - 💻 FrontEnd developer
 - 🖌️ Designer
