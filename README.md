@@ -1,4 +1,4 @@
-### Hey, sou Nathan Deodato!
+## Hey, sou Nathan Deodato!
 
 - 💻 FrontEnd developer
 - 🖌️ Designer
