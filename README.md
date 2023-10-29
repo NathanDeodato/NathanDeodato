@@ -1,11 +1,11 @@
-<img src="./Icons/coverNathanCode.png" width="600px"/>
+### Hey, sou Nathan Deodato!
 
 - 💻 FrontEnd developer
 - 🖌️ Designer
 - 💬 Minha filosofia é: Constancia e determinação na execução do que me comprometo.
 - 🌐 Mais sobre mim: <a href='https://nathancode.netlify.app'>NathanCode</a>
 
-<!-- <div style='display: flex; justify-content: space-betwen;'>
+<div style='display: flex; justify-content: space-betwen;'>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' width='80px'/>
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' width='70px'/>
     <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' width='115px'/>
