@@ -1,6 +1,6 @@
 ## Hey, sou Nathan Deodato!
 
-- 💻 FrontEnd developer
+- </> Software developer
 - 🖌️ Designer
 - 💬 Minha filosofia é: Constancia e determinação na execução do que me comprometo.
 - 🌐 Mais sobre mim: <a href='https://nathancode.netlify.app'>NathanCode</a>
