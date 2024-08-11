@@ -3,7 +3,7 @@
 - </> Software developer
 - 🖌️ Designer
 - 💬 Minha filosofia é: Constancia e determinação na execução do que me comprometo.
-- 🌐 Mais sobre mim: <a href='https://nathan-lab.vercel.app/'>NathanCode</a>
+- 🌐 Mais sobre mim: <a href='https://nathan-lab.vercel.app/'>Nathan Lab</a>
 
 <div style='display: flex; justify-content: space-betwen;'>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' width='80px'>
